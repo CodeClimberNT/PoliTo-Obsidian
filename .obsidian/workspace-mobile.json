@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "3f71fded83a42c3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f1c6b70f75d6d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db331d8890e4a1fc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/Lectures/6_GenerativeLinearQuadratic.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5b35299848f9cc9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dcbf1640b4cb2f95",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bd1378d0a5a378e8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ad9e7c9afae5fcc4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "25762849c710f5d4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "223d80f09c98899d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "545af58879541bce",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/Lectures/6_GenerativeLinearQuadratic.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7314d0fec3a4fc69",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/Lectures/6_GenerativeLinearQuadratic.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bc67e3b088d5f884",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/Lectures/6_GenerativeLinearQuadratic.pdf"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "db331d8890e4a1fc",
+  "lastOpenFiles": [
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/Lectures/5_Probability.pdf",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/Lectures/4_DimensionalityReduction.pdf",
+    "2023-2024/Semester II/Bioinformatics/PDF/files/3ML.05.NeuralNetworks_DeepLearning.pdf",
+    "2023-2024/Semester II/Bioinformatics/PDF/files/1Intro_MolBio.01.Introduction to Molecular Biology and Bioinf.pdf",
+    "2023-2024/Semester II/Bioinformatics/Excalidraw/Drawing 2024-05-02 13.18.01.excalidraw.md",
+    "2023-2024/Semester II/Bioinformatics/BioInformatics.md",
+    "2023-2024/Semester II/Bioinformatics/Excalidraw",
+    "2023-2024/Semester II/Ingegneria del Software/PDF/files/09-Project-Management-2024.pdf",
+    "/2023-2024/Semester II/Ingegneria del Software/PDF/files/09-Project-Management-2024.pdf",
+    "/2023-2024/Semester II/Programmazione di Sistema/OS Internal/LAB OS161/pds-os161",
+    "2023-2024/Semester II/Programmazione di Sistema/Programmazione Rust/img/Pasted image 20240429134908.png",
+    "2023-2024/Semester II/Programmazione di Sistema/Programmazione di Sistema.md",
+    "OS Internal.md",
+    "2023-2024/Semester II/Programmazione di Sistema/Practice.md",
+    "2023-2024/Semester II/Programmazione di Sistema/Theory.md"
+  ]
+}

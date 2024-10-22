@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "7c39dc103a188172",
+    "type": "split",
+    "children": [
+      {
+        "id": "a54b89cc604af5d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba5782e6a7d5f578",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66169011a46e37a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "261d6b4c9162a1b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d72554945a0b779",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7649608575e04556",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3b94c9e05a7cf4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404.5
+  },
+  "right": {
+    "id": "799852d31f140d24",
+    "type": "split",
+    "children": [
+      {
+        "id": "107e46d263ff8695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae14463ce4f7b1f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a9b29a7e31bc15c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fb0674e538f9c20a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "327c1c948edb23b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f7d076d4621142a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2e9b100bf6efe5f4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "52201d92629d7898",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "Dictionary"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "open-vscode:VSCode": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ba5782e6a7d5f578",
+  "lastOpenFiles": [
+    "2023-2024/Semester II/Applicazioni Web I/Theory.md",
+    "2023-2024/Semester II/Bioinformatics/Theory.md",
+    "2023-2024/Semester II/Ingegneria del Software/Theory.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/Theory.md",
+    "2023-2024/Semester II/Programmazione di Sistema/Programmazione Rust/Theory.md",
+    "l01_1-Introduzione a Rust.pdf.md",
+    "2023-2024/Semester II/Applicazioni Web I/PDF/4-01-React-intro.pdf",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/Lectures/6_GenerativeLinearQuadratic.pdf",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/Lectures/7_BayesDecisionsModelEvaluation.pdf",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/Lectures/5_Probability.pdf",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/OnlineSource/matrixcookbook.pdf",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/Laboratories/1_Lab.pdf",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/exams/exam_question_examples_LogReg.pdf",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/PDF/files/OS161/B. OS161-overview.pdf",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/PDF/files/OS161/A.OS161-intro.pdf",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/Exams Exercise/Theory/esercizi-risolti-su-file-system.pdf",
+    "README.md",
+    "2023-2024/Semester II/Ingegneria del Software/Recap.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/img/Pasted image 20240520135932.png",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/img/Pasted image 20240513142748.png",
+    "Pasted image 20240513142651.png",
+    "Pasted image 20240513142634.png",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/img/Pasted image 20240513140147.png",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/img/Pasted image 20240513131135.png",
+    "2023-2024/Semester II/Programmazione di Sistema/Programmazione Rust/img/Pasted image 20240507120438.png",
+    "2024-04-26.md",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/Machine Learning and Pattern Recognition.md",
+    "2023-2024/Semester II/Programmazione di Sistema/Programmazione Rust/img/Pasted image 20240507114615.png",
+    "2023-2024/Semester II/Programmazione di Sistema/Programmazione Rust/img/Pasted image 20240429134908.png",
+    "2023-2024/Semester II/Programmazione di Sistema/Programmazione Rust/PDF/Programmazione RUST.md",
+    "Pasted image 20240429134908.png",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/Theory.md",
+    "conflict-files-obsidian-git.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/LAB OS161/LAB.md",
+    "2023-2024/Semester II/Ingegneria del Software/EzElectronics.md",
+    "2024-03-15.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/Draw-Practise.md",
+    "2023-2024/Semester II/Ingegneria del Software/PDF/PDF.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/Practice.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/PDF/OS Internal.md",
+    "2023-2024/Semester II/Applicazioni Web I/LAB.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/LAB.md",
+    "2023-2024/Semester II/Ingegneria del Software/Practice.md",
+    "Excalidraw/Drawing 2024-03-13 09.02.54.excalidraw.md",
+    "2023-2024/Semester II/Ingegneria del Software/Draw-SE.md",
+    "Untitled.canvas"
+  ]
+}

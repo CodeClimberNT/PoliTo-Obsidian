@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "7c39dc103a188172",
+    "type": "split",
+    "children": [
+      {
+        "id": "15408347916c6f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31a73c01c1b5401b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66169011a46e37a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "261d6b4c9162a1b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d72554945a0b779",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7649608575e04556",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:2023-2024",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3b94c9e05a7cf4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 493.5
+  },
+  "right": {
+    "id": "799852d31f140d24",
+    "type": "split",
+    "children": [
+      {
+        "id": "107e46d263ff8695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae14463ce4f7b1f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9b29a7e31bc15c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "327c1c948edb23b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f7d076d4621142a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "31a73c01c1b5401b",
+  "lastOpenFiles": [
+    "2023-2024/Semester I/Big Data Processing and Analytics/Big Data Processing and Analytics.md",
+    "2023-2024/Semester II/Big Data Processing and Analytics/Big Data Processing and Analytics.md",
+    "2023-2024/Semester II/Big Data Processing and Analytics",
+    "README.md",
+    "README.sync-conflict-20240223-142436-ACZHPHI.md",
+    "2023-2024/Semester I/Big Data Processing and Analytics/Utils.md",
+    "2023-2024/Semester I/Data Science e Tecnologie per le Basi di Dati/Utils.md",
+    "2023-2024/Semester II/Applicazioni Web I/Utils.md",
+    "2023-2024/Semester I/Tecnologie e Servizi di Rete/Utils.md",
+    "2023-2024/Semester I/Data Science e Tecnologie per le Basi di Dati/Data Science e Tecnologie per le Basi di Dati.md",
+    "2023-2024/Semester I/Big Data Processing and Analytics/Programmazione di Sistema.md",
+    "2023-2024/Semester I/Data Science e Tecnologie per le Basi di Dati/Programmazione di Sistema.md",
+    "~syncthing~README.sync-conflict-20240223-142436-ACZHPHI.md.tmp",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/Machine Learning and Pattern Recognition.md",
+    "2023-2024/Semester II/Machine Learning and Pattern Recognition/Machine Learning and Pattern Recognition.sync-conflict-20240223-141926-ACZHPHI.md",
+    "2023-2024/Semester I/Architetture dei Sistemi di Elaborazione/Architetture dei Sistemi di Elaborazione.md",
+    "2023-2024/Semester I/Tecnologie e Servizi di Rete/Tecnologie e Servizi di Rete.md",
+    "2023-2024/Semester II/Applicazioni Web I/Applicazioni Web I.md",
+    "2023-2024/Semester II/Bioinformatics/BioInformatics.md",
+    "2023-2024/Semester II/Bioinformatics/Practice.md",
+    "2023-2024/Semester II/Ingegneria del Software/Ingegneria del Software.md",
+    "2023-2024/Semester II/Programmazione di Sistema/Programmazione di Sistema.md",
+    "2023-2024/Semester II/Ingegneria del Software/Ingegneria del Software.sync-conflict-20240223-142035-ACZHPHI.md",
+    "2023-2024/Semester II/Programmazione di Sistema/Programmazione di Sistema.sync-conflict-20240223-142018-ACZHPHI.md",
+    "2023-2024/Semester II/Programmazione di Sistema/Programmazione di Sistema.sync-conflict-20240223-142047-ACZHPHI.md",
+    "Untitled.md",
+    "2023-2024/Semester I/Big Data Processing and Analytics/Big Data Processing and Analytics.sync-conflict-20240223-141746-ACZHPHI.md",
+    "2023-2024/Semester I/Big Data Processing and Analytics/Big Data Processing and Analytics.sync-conflict-20240223-141727-ACZHPHI.md",
+    "2023-2024/Semester I/Big Data Processing and Analytics/~syncthing~Big Data Processing and Analytics.sync-conflict-20240223-141746-ACZHPHI.md.tmp",
+    "2023-2024/Semester I/Big Data Processing and Analytics/~syncthing~Big Data Processing and Analytics.sync-conflict-20240223-141727-ACZHPHI.md.tmp",
+    "~syncthing~README.sync-conflict-20240223-141345-ACZHPHI.md.tmp",
+    "2023-2024/Semester II/Applicazioni Web I/~syncthing~Utils.md.tmp",
+    "~syncthing~README.sync-conflict-20240223-141316-ACZHPHI.md.tmp",
+    "2023-2024/Semester I/Big Data Processing and Analytics/~syncthing~Utils.md.tmp",
+    "2023-2024/Semester I/Data Science e Tecnologie per le Basi di Dati/~syncthing~Utils.md.tmp",
+    "2023-2024/Semester I/Tecnologie e Servizi di Rete/~syncthing~Utils.md.tmp"
+  ]
+}
