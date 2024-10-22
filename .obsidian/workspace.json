@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a54b89cc604af5d0",
+        "id": "13c6d8cf1fccb65c",
         "type": "tabs",
         "children": [
           {
-            "id": "ba5782e6a7d5f578",
+            "id": "bb6cc219172c5ee8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,10 +118,14 @@
             "id": "fb0674e538f9c20a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2023-2024/Semester II/Ingegneria del Software/Recap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recap"
             }
           },
           {
@@ -163,16 +167,16 @@
             "state": {
               "type": "dictionary-view",
               "state": {},
-              "icon": "quote-glyph",
-              "title": "Dictionary"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
+    "width": 940.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -184,14 +188,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "omnisearch:Omnisearch": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ba5782e6a7d5f578",
+  "active": "bb6cc219172c5ee8",
   "lastOpenFiles": [
+    "2024-2025/Semester I/Sicurezza dei Sistemi Informativi/Practice.md",
+    "2024-2025/Semester I/Sicurezza dei Sistemi Informativi/Theory.md",
+    "2024-2025/Semester I/Human Computer Interaction/Theory.md",
+    "2024-2025/Semester I/Computational Intelligence/Theory.md",
+    "2024-2025/Semester I/Advanced Machine Learning/Theory.md",
+    "2024-2025/Semester I/Advanced Machine Learning/Practice.md",
+    "2023-2024/Semester II/Ingegneria del Software/Recap.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/LAB OS161/LAB.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/LAB OS161",
+    "2023-2024/Semester II/Ingegneria del Software/Practice.md",
+    "Lab1 1.docx.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/Practice.md",
+    "2023-2024/Semester I/Architetture dei Sistemi di Elaborazione/Practice.md",
+    "2023-2024/Semester II/Applicazioni Web I/LAB.md",
+    "arm_assembly_instructions.pdf.md",
+    "2024-2025/Semester I/Human Computer Interaction/Practice.md",
+    "2024-2025/Semester I/Computational Intelligence/Practice.md",
+    "2023-2024/Semester II/Ingegneria del Software/Ingegneria del Software.md",
+    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/img/Pasted image 20240311135246.png",
+    "2023-2024/Semester II/Applicazioni Web I/img/Pasted image 20240309121417.png",
+    "2023-2024/Semester II/Ingegneria del Software/img/Pasted image 20240325184949.png",
     "2023-2024/Semester II/Applicazioni Web I/Theory.md",
     "2023-2024/Semester II/Bioinformatics/Theory.md",
     "2023-2024/Semester II/Ingegneria del Software/Theory.md",
@@ -207,9 +231,7 @@
     "2023-2024/Semester II/Machine Learning and Pattern Recognition/PDF/exams/exam_question_examples_LogReg.pdf",
     "2023-2024/Semester II/Programmazione di Sistema/OS Internal/PDF/files/OS161/B. OS161-overview.pdf",
     "2023-2024/Semester II/Programmazione di Sistema/OS Internal/PDF/files/OS161/A.OS161-intro.pdf",
-    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/Exams Exercise/Theory/esercizi-risolti-su-file-system.pdf",
     "README.md",
-    "2023-2024/Semester II/Ingegneria del Software/Recap.md",
     "2023-2024/Semester II/Programmazione di Sistema/OS Internal/img/Pasted image 20240520135932.png",
     "2023-2024/Semester II/Programmazione di Sistema/OS Internal/img/Pasted image 20240513142748.png",
     "Pasted image 20240513142651.png",
@@ -219,24 +241,6 @@
     "2023-2024/Semester II/Programmazione di Sistema/Programmazione Rust/img/Pasted image 20240507120438.png",
     "2024-04-26.md",
     "2023-2024/Semester II/Machine Learning and Pattern Recognition/Machine Learning and Pattern Recognition.md",
-    "2023-2024/Semester II/Programmazione di Sistema/Programmazione Rust/img/Pasted image 20240507114615.png",
-    "2023-2024/Semester II/Programmazione di Sistema/Programmazione Rust/img/Pasted image 20240429134908.png",
-    "2023-2024/Semester II/Programmazione di Sistema/Programmazione Rust/PDF/Programmazione RUST.md",
-    "Pasted image 20240429134908.png",
-    "2023-2024/Semester II/Machine Learning and Pattern Recognition/Theory.md",
-    "conflict-files-obsidian-git.md",
-    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/LAB OS161/LAB.md",
-    "2023-2024/Semester II/Ingegneria del Software/EzElectronics.md",
-    "2024-03-15.md",
-    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/Draw-Practise.md",
-    "2023-2024/Semester II/Ingegneria del Software/PDF/PDF.md",
-    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/Practice.md",
-    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/PDF/OS Internal.md",
-    "2023-2024/Semester II/Applicazioni Web I/LAB.md",
-    "2023-2024/Semester II/Programmazione di Sistema/OS Internal/LAB.md",
-    "2023-2024/Semester II/Ingegneria del Software/Practice.md",
-    "Excalidraw/Drawing 2024-03-13 09.02.54.excalidraw.md",
-    "2023-2024/Semester II/Ingegneria del Software/Draw-SE.md",
     "Untitled.canvas"
   ]
 }

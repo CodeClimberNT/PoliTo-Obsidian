@@ -1,6 +1,7 @@
 ---
 tags:
-  - s2
+  - s1
   - 2024-2025
   - algorithm
+  - CI
 ---
